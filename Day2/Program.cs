@@ -29,7 +29,6 @@ namespace Day2
                     BirthPlace = "TB",
                     Age = DateTime.Now.Year-new DateTime(2000,03,26).Year,
                     IsGranduated = true,
-
                 },
               new Member()
                 {
@@ -41,7 +40,6 @@ namespace Day2
                     BirthPlace = "TB",
                     Age = DateTime.Now.Year-new DateTime(2002,03,26).Year,
                     IsGranduated = true,
-
                 }
             };
 
