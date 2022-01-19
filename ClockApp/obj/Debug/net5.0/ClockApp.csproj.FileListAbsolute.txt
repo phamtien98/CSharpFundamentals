@@ -1,0 +1,16 @@
+C:\Users\minht\source\repos\ClockApp\bin\Debug\net5.0\ClockApp.exe
+C:\Users\minht\source\repos\ClockApp\bin\Debug\net5.0\ClockApp.deps.json
+C:\Users\minht\source\repos\ClockApp\bin\Debug\net5.0\ClockApp.runtimeconfig.json
+C:\Users\minht\source\repos\ClockApp\bin\Debug\net5.0\ClockApp.runtimeconfig.dev.json
+C:\Users\minht\source\repos\ClockApp\bin\Debug\net5.0\ClockApp.dll
+C:\Users\minht\source\repos\ClockApp\bin\Debug\net5.0\ref\ClockApp.dll
+C:\Users\minht\source\repos\ClockApp\bin\Debug\net5.0\ClockApp.pdb
+C:\Users\minht\source\repos\ClockApp\obj\Debug\net5.0\ClockApp.csproj.AssemblyReference.cache
+C:\Users\minht\source\repos\ClockApp\obj\Debug\net5.0\ClockApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minht\source\repos\ClockApp\obj\Debug\net5.0\ClockApp.AssemblyInfoInputs.cache
+C:\Users\minht\source\repos\ClockApp\obj\Debug\net5.0\ClockApp.AssemblyInfo.cs
+C:\Users\minht\source\repos\ClockApp\obj\Debug\net5.0\ClockApp.csproj.CoreCompileInputs.cache
+C:\Users\minht\source\repos\ClockApp\obj\Debug\net5.0\ClockApp.dll
+C:\Users\minht\source\repos\ClockApp\obj\Debug\net5.0\ref\ClockApp.dll
+C:\Users\minht\source\repos\ClockApp\obj\Debug\net5.0\ClockApp.pdb
+C:\Users\minht\source\repos\ClockApp\obj\Debug\net5.0\ClockApp.genruntimeconfig.cache
